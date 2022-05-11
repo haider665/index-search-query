@@ -1,0 +1,8 @@
+INSERT INTO author VALUES(1, Mojib, Haider, Nikunja, h@h.com)
+INSERT INTO author VALUES(2, Anando, Haider, Banani, a@a.com)
+INSERT INTO author VALUES(3, Ananto, Haider, Uttara, an@a.com)
+INSERT INTO book VALUES(1, Comedy 1, comedy, 1)
+INSERT INTO book VALUES(2, Comedy 2, comedy, 1)
+INSERT INTO book VALUES(3, Comedy 3, comedy, 2)
+INSERT INTO book VALUES(4, Adventure, adventure, 2)
+INSERT INTO book VALUES(5, Horror, horror, 3)
